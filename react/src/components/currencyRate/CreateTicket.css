@@ -1,0 +1,7 @@
+.overviewButton{
+    display: inline-flexbox;
+    padding: 1vmin;
+    margin-top: 10%;
+    width: 20vmax;
+    border-radius: 6px;
+}
